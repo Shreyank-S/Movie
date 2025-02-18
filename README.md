@@ -1,14 +1,14 @@
 
-A Movie Application
+# A Movie Application
 
 This project fetches movie details from the TMDB API using React, Tailwind CSS, and Appwrite as the database.
 
 
-Introduction
+# Introduction
 This project fetches movie details from the TMDB API using React, Tailwind CSS, and Appwrite as the database.
 
 
-Features
+# Features
 
 👉 Browse All Movies: Explore a wide range of movies available on the platform.
 
@@ -26,7 +26,7 @@ and many more, including code architecture and reusability
 # 🤸 Quick Start
 Follow these steps to set up the project locally on your machine.
 
-Prerequisites
+## Prerequisites
 
 Make sure you have the following installed on your machine:
 
